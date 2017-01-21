@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Morgan Moskalyk</title>
-    <link>http://morganmoskalyk.ca/blog/index.xml</link>
+    <link>http://morganmoskalyk.ca/blog.xml</link>
     <description>Recent content in Blog on Morgan Moskalyk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Tue, 06 Dec 2016 21:53:38 -0500</lastBuildDate>
-    <atom:link href="http://morganmoskalyk.ca/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://morganmoskalyk.ca/blog.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>A welcome KISS</title>
