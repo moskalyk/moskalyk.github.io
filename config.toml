@@ -3,4 +3,4 @@ title = "My New Hugo Site"
 languageCode = "en-us"
 theme = "cocoa"
 
-DateForm = "Jan 2, 2006"
+[params]  DateForm = "Mon, Jan 2, 2006"
