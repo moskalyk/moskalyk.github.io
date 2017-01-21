@@ -1,4 +1,71 @@
 @import url(https://fonts.googleapis.com/css?family=Oswald:300);
+@import "compass/css3";
+
+#wrap {
+  padding-bottom: 10px;
+}
+
+.terminal{
+  font-family: monospace;
+  font-size: 1em;
+}
+
+#wrap:after {
+  content:"_";
+  opacity: 0;
+  animation: cursor 1s infinite;
+}
+
+.permissions{
+  font-family: monospace;
+  font-size: 1em;
+}
+
+.author{
+  font-family: monospace;
+  font-size: 1em;
+}
+
+@keyframes cursor {
+  0% {
+    opacity: 0;
+  }
+  40% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+  90% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+/* styling */
+ /*html {
+  width: 100%;
+  height: 100%;
+  background: radial-gradient(circle, #fff 0%, #aaa 100%) no-repeat;
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
+body {
+  text-align: center;
+  display: table;
+  width: 100%;
+  height: 100%;
+  overflow-x: hidden;
+  overflow-y: hidden;
+}*/
+#wrap {
+  box-sizing: border-box;
+  display: table-cell;
+  vertical-align: middle;
+}
+
+
 .dark {
   color: #333 !important;
 }

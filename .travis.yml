@@ -15,7 +15,7 @@ before_script:
 - git clone --branch v2 https://github.com/go-yaml/yaml $GOPATH/src/gopkg.in/yaml.v2
 - go get -u -v github.com/spf13/hugo
 script:
-- git clone https://github.com/nishanths/cocoa-hugo-theme ./themes/cocoa
+# - git clone https://github.com/nishanths/cocoa-hugo-theme ./themes/cocoa
 - hugo
 after_success:
 - echo "morganmoskalyk.ca" > ./public/CNAMEs
