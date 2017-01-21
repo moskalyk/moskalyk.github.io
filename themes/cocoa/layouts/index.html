@@ -1,0 +1,30 @@
+{{ partial "header.html" . }}
+<section class="main">
+    <div class="container">
+        <div class="content">
+          <span id="wrap" class="terminal">moskalyk@home:~$ grep "thoughts" </span>
+            <!-- <div class="page-heading">$ grep "thoughts"</div> -->
+            <ul>
+            <li class="post-item">
+                <span class="terminal">drwxr-xr-x+&nbsp;&nbsp;</span>
+                <span class="terminal">moskalyk</span>
+                <span class="meta terminal">Dec 6, 2016</span>
+                <a href="" class="terminal"><span>.</span></a>
+            </li>
+            <li class="post-item">
+                <span class="terminal">drwxr-xr-x&nbsp;&nbsp;&nbsp;</span>
+                <span class="terminal">root&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                <span class="meta terminal">Dec 6, 2016</span>
+                <a href="" class="terminal"><span>..</span></a>
+            </li>
+            {{ range .Data.Pages.ByPublishDate }}
+                {{ if eq .Section "blog" }}
+                    {{ partial "li.html" . }}
+                {{ end }}
+            {{ end }}
+            </ul>
+        </div>
+    </div>
+</section>
+{{ partial "footer.html" . }}
+
