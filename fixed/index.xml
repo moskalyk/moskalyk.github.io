@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fixed on Morgan Moskalyk</title>
+    <link>http://morganmoskalyk.ca/fixed/index.xml</link>
+    <description>Recent content in Fixed on Morgan Moskalyk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 06 Dec 2016 23:30:36 -0500</lastBuildDate>
+    <atom:link href="http://morganmoskalyk.ca/fixed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>about</title>
+      <link>http://morganmoskalyk.ca/about/</link>
+      <pubDate>Tue, 06 Dec 2016 23:30:36 -0500</pubDate>
+      
+      <guid>http://morganmoskalyk.ca/about/</guid>
+      <description>
+
+&lt;h1 id=&#34;why-another-blog&#34;&gt;Why another blog?&lt;/h1&gt;
+
+&lt;h1 id=&#34;my-beliefs&#34;&gt;My Beliefs&lt;/h1&gt;
+
+&lt;p&gt;I believe technology is driven by curiosity. I stay curious by asking questions about the possible and working &amp;lsquo;under the hood&amp;rsquo;​ to build things from their fundamental level.&lt;/p&gt;
+
+&lt;p&gt;I believe true leadership starts with time spent in the trenches. I do this by being brave and never turning down an adventure - whether it&amp;rsquo;s in the physical world or an exploration of the creative mind.&lt;/p&gt;
+
+&lt;p&gt;I believe art is everywhere and I make it my duty to &amp;lsquo;do good&amp;rsquo; with art, in anything I touch.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The day before something is a truly a breakthrough, it’s a crazy idea. -Peter Diamandis&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>code</title>
+      <link>http://morganmoskalyk.ca/code/</link>
+      <pubDate>Tue, 06 Dec 2016 23:30:36 -0500</pubDate>
+      
+      <guid>http://morganmoskalyk.ca/code/</guid>
+      <description>&lt;p&gt;Here is a non exlusive list of tech stack that I love (in order of expertise):&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Node.js / Typescript / Javascript&lt;/li&gt;
+&lt;li&gt;Python / Flask *&lt;/li&gt;
+&lt;li&gt;MongoDB&lt;/li&gt;
+&lt;li&gt;R&lt;/li&gt;
+&lt;li&gt;Angular&lt;/li&gt;
+&lt;li&gt;SQL&lt;/li&gt;
+&lt;li&gt;Bash&lt;/li&gt;
+&lt;li&gt;Cassandra *&lt;/li&gt;
+&lt;li&gt;Java&lt;/li&gt;
+&lt;li&gt;Tensorflow *&lt;/li&gt;
+&lt;li&gt;Scala / Spark *&lt;/li&gt;
+&lt;li&gt;Go *&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;*I consider my focus ATM &amp;amp; on the upswing&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

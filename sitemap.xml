@@ -2,19 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://morganmoskalyk.ca/post/my-first-post/</loc>
-    <lastmod>2017-01-21T12:40:42-05:00</lastmod>
+    <loc>http://morganmoskalyk.ca/about/</loc>
+    <lastmod>2016-12-06T23:30:36-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://morganmoskalyk.ca/</loc>
-    <lastmod>2017-01-21T12:40:42-05:00</lastmod>
+    <loc>http://morganmoskalyk.ca/code/</loc>
+    <lastmod>2016-12-06T23:30:36-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://morganmoskalyk.ca/blog/a-welcome-kiss/</loc>
+    <lastmod>2016-12-06T21:53:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://morganmoskalyk.ca/posts/</loc>
+  </url>
+  
+  <url>
+    <loc>http://morganmoskalyk.ca/blog/</loc>
+    <lastmod>2016-12-06T21:53:38-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://morganmoskalyk.ca/post/</loc>
-    <lastmod>2017-01-21T12:40:42-05:00</lastmod>
+    <loc>http://morganmoskalyk.ca/fixed/</loc>
+    <lastmod>2016-12-06T23:30:36-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://morganmoskalyk.ca/</loc>
+    <lastmod>2016-12-06T23:30:36-05:00</lastmod>
     <priority>0</priority>
   </url>
   
