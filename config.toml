@@ -1,6 +1,33 @@
-baseurl = "https://morganmoskalyk.ca/"
-title = "My New Hugo Site"
-languageCode = "en-us"
+baseurl = "http://morganmoskalyk.ca/"
+title = "Morgan Moskalyk"
+author = "Morgan Moskalyk"
 theme = "cocoa"
+builddrafts = true
+canonifyurls = true
+contentdir = "content"
+languageCode = "en-US"
+layoutdir = "layouts"
+publishdir = "public"
+pygmentsuseclasses = true
+disqusshortname = "morganmoskalyk" # Comment out to disable Disqus.
+pluralizelisttitles = false
+# googleAnalytics     = "UA-123-45"
 
-[params]  DateForm = "Mon, Jan 2, 2006"
+[permalinks]
+fixed = ":title/"
+blog = "blog/:slug/"
+
+[params]
+author = "Morgan Moskalyk"
+heading = "Morgan Moskalyk"
+dateform = "Jan 2, 2006"
+dateformfull = "Mon Jan 2 2006 15:04:05 MST"
+description = "Make art"
+email = "morgan.moskalyk@gmail.com"
+# faviconfile = "img/leaf.ico"
+github = "//github.com/moskalyk"
+highlightjs = true
+initials = "mm" # Displayed on single post page; DEPRECATED in v0.3.0.
+lang = "en"
+avatar = "img/profile.jpg"
+linkedin = "//linkedin.com/in/morganmoskalyk"
