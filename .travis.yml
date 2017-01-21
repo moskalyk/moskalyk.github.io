@@ -18,5 +18,5 @@ script:
 - git clone https://github.com/nishanths/cocoa-hugo-theme ./themes/cocoa
 - hugo
 after_success:
-# - echo "morganmoskalyk.ca" > ./public/CNAMEs
+- echo "morganmoskalyk.ca" > ./public/CNAMEs
 - "./scripts/deploy.sh"
