@@ -61,54 +61,6 @@
     </item>
     
     <item>
-      <title>A welcome KISS</title>
-      <link>http://morganmoskalyk.ca/blog/a-welcome-kiss/</link>
-      <pubDate>Tue, 06 Dec 2016 21:53:38 -0500</pubDate>
-      
-      <guid>http://morganmoskalyk.ca/blog/a-welcome-kiss/</guid>
-      <description>
-
-&lt;blockquote&gt;
-&lt;p&gt;KISS = Keep it simple stupid&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Finally getting to making this blog, is a perfect example of how easy it has been to fuck around the bush. Time and again, the desire to create a blog for myself has come and gone for almost the last 12 months. This seemingly innocent task, has been the forgotten one on my list of things to do. It was only until I learned about the term &lt;a href=&#34;http://www.catb.org/~esr/jargon/html/Y/yak-shaving.html&#34;&gt;Yak Shaving&lt;/a&gt;, did I snap and get to it. &lt;strong&gt;Yak Shaving in plain terms, means that one gets distracted by several other auxillary tasks when you attempt to perform an original task, because by the end you end up shaving a Yak.&lt;/strong&gt; Hal demonstrates this nicely:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://i.imgur.com/t0XHtgJ.gif&#34; alt=&#34;Hal Fixing the Light bulb&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;A mix between distraction and having to cope with a monkey mind of wanting to just &amp;lsquo;do stuff&amp;rsquo; because it feels good to &lt;strong&gt;get stuff done&lt;/strong&gt;. Wrong.. Unfortunately, I catch myself doing this all the time and have learned from people like &lt;a href=&#34;http://fourhourworkweek.com/blog/&#34;&gt;Tim Ferriss&lt;/a&gt; that it&amp;rsquo;s better to be effective and &lt;strong&gt;do the right things,&lt;/strong&gt; than be efficient and do things quickly.&lt;/p&gt;
-
-&lt;h3 id=&#34;again-here-was-my-yak-shaving-moment-does-it-sound-familiar&#34;&gt;Again, here was my Yak Shaving moment. Does it sound familiar?&lt;/h3&gt;
-
-&lt;ol&gt;
-&lt;li&gt;You go to learn about some new exciting technology (For me it was &lt;a href=&#34;http://academy.datastax.com/courses/ds201-foundations-apache-cassandra/&#34;&gt;Cassandra&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;You then decide it would be best to set it up on your computer environment manually(For me this involved wanting to use &lt;a href=&#34;kubernetes.io&#34;&gt;Kubernetes&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;You then start learning tutorials about this other technology&lt;/li&gt;
-&lt;li&gt;You then get so hungry from all this learning you go make some food.&lt;/li&gt;
-&lt;li&gt;You then decide, wouldn&amp;rsquo;t it be great to just sign up for a Nanodegree through Udacity to learn this new thing.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;This is a true story about my last Saturday night. And here&amp;rsquo;s what I learned. The scatter brain can be solved by focusing on the following few things:&lt;/p&gt;
-
-&lt;h2 id=&#34;1-fool-yourself-there-is-an-unlimited-amount-of-time&#34;&gt;1. Fool yourself: There is an unlimited amount of time.&lt;/h2&gt;
-
-&lt;p&gt;In our daily lives, there is an inherent cultivation of focusing on: speed, pace, lots, MORE.. Always an ask for more. This launches our brains to go searching for efficiency, and, some sort of way to be &amp;ldquo;accepted&amp;rdquo;. For me that was jumping from stack to stack, wanting to find the &amp;lsquo;best&amp;rsquo; tutorials to &lt;strong&gt;learn things the fastest&lt;/strong&gt;. However, be reflective and just do 1 thing that in a single learning session and that&amp;rsquo;s it. This leads me to my next point.&lt;/p&gt;
-
-&lt;h2 id=&#34;2-take-10-seconds-to-chunk-your-learning-and-focus-on-1-thing-at-a-time&#34;&gt;2. Take 10 seconds to chunk your learning and focus on 1 thing at a time.&lt;/h2&gt;
-
-&lt;p&gt;I am a little against &amp;ldquo;visual lists&amp;rdquo; or to do lists when I work indivudally (Using Kanban boards is a different situation, and is highly recommended). For me at least, I find the best way to focus is to get my thoughts down on individual post it notes, prioritize, then hide them accept for 1. Stick that note some where visible in your work environment and let the creative juices fly. If your brain wonders, whatever you want to do is staring you in the face. (Some times it is okay to let your curiosity wonder though!)&lt;/p&gt;
-
-&lt;h2 id=&#34;3-keep-your-deep-to-broad-ratio-at-around-80-deep-and-20-broad-and-don-t-be-afraid-to-zoom-in-and-out-80-20&#34;&gt;3. Keep your &lt;strong&gt;&lt;em&gt;deep&lt;/em&gt;&lt;/strong&gt; to &lt;em&gt;broad&lt;/em&gt; ratio at around 80% deep and 20% broad, and don&amp;rsquo;t be afraid to zoom in and out. (80 / 20)&lt;/h2&gt;
-
-&lt;p&gt;I find my brain learns the best when I understand the interelationships of a topic and how it fits into the grand picture of things. It gives me tangible application as to the possibilities, as well as the transferability of making cross-functional connections. But once I&amp;rsquo;ve established that context in the broad, I dedicate a stretch of time to immerse myself and go deep: find top questions on Stackoverflow, watch videos of influencers in that area, use tutorials, and most importantly understand WHY you might use a certain technology, becuase ultimately that is the most important question to answer.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Cassandra, Why? Node.js, Why? Ember.js.. seriously, Why?&lt;/strong&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title></title>
       <link>http://morganmoskalyk.ca/posts.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
