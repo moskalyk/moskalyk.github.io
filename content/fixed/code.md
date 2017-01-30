@@ -10,13 +10,12 @@ Here is a non exlusive list of tech stack that I love (in order of expertise):
 * Python / Flask *
 * MongoDB
 * R
-* Angular
 * SQL
-* Bash
-* Cassandra *
 * Java
 * Tensorflow *
-* Scala / Spark *
-* Go *
+* Angular
+* Bash
+* Cassandra 
+* Scala / Spark 
 
 *I consider my focus ATM & on the upswing
