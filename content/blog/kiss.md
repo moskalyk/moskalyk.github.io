@@ -1,6 +1,6 @@
 +++
 title = "A welcome KISS"
-draft = true
+draft = false
 date = "2016-12-06T21:53:38-05:00"
 time = "3 Min"
 
